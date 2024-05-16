@@ -409,6 +409,10 @@ header-includes:
 ![ решение задачи 1 1.9](image/placeimg_800_600_tech.jpg){#fig:072 width=70%}
 
 
+## Работа на сервере.
+
+
+
 
 (рис. [-@fig:001]).
 
