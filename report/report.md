@@ -484,6 +484,27 @@ header-includes:
 
 ![ответ вопроса 2 2.3 ](image/placeimg_800_600_tech.jpg){#fig:087 width=70%}
 
+Потом сразу начинал читать следующую задачу (рис. [-@fig:088]).
+
+![задача 1 2.3](image/placeimg_800_600_tech.jpg){#fig:088 width=70%}
+
+Затем я загрузил файл (рис. [-@fig:089]) и распаковал его (рис. [-@fig:090]).
+
+![скачанный файл](image/placeimg_800_600_tech.jpg){#fig:089 width=70%}
+
+![распаковка файла ](image/placeimg_800_600_tech.jpg){#fig:090 width=70%}
+
+Тогда я открывал его с помощью Fastqc и ответил на вопрос (рис. [-@fig:091]).
+
+![решение задачи 1 2.3 ](image/placeimg_800_600_tech.jpg){#fig:091 width=70%}
+
+Потом читал следующий вопрос (рис. [-@fig:092]).
+
+![вопрос 2 2.3](image/placeimg_800_600_tech.jpg){#fig:092 width=70%}
+
+Потом я выполнил команду man clustalw и читал все опции. Затем я дал как ответ следующую комнаду "clustalw 'infile=test.fasta -aling" (рис. [-@fig:093]).
+
+![решение вопроса 2 2.3](image/placeimg_800_600_tech.jpg){#fig:093 width=70%}
 
 
 
